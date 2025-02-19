@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color:white ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    margin: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(https://cdn.bhdw.net/im/illustration-of-half-and-and-mountains-wallpaper-109309_w635.webp);
+    background-size: cover;
+}
+.container{
+    background-color:black;
+    width: 350px;
+    height: 250px;
+    border-radius: 50px;
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    color: white;
+}
+form{
+    text-align: center;
+    color:white;
+}
+.btn{
+    background-color: azure;
+    color: aliceblue;
+    border: 1px solid cornflowerblue;
+    margin: 2px;
+    padding: 1px;
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+}

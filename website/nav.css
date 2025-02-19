@@ -1,0 +1,19 @@
+.container{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+   background-color: rgb(238, 96, 174);
+   font-family: Arial, Helvetica, sans-serif;
+   color: black;
+  }
+  #uni{
+     display:flex;
+     list-style-type: none;
+     gap:12px;
+  }
+  button{
+       padding: 10px;
+       width: 70px;
+       border-radius: 20px;
+       text-align: center;     
+      }

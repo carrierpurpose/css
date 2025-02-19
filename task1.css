@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+    background-image:url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAKIAqAMBIgACEQEDEQH/xAAbAAEAAwEBAQEAAAAAAAAAAAAABQYHAwQIAf/EACsQAQABAwMEAQMDBQAAAAAAAAABAgMEBQYREiExQVETImEHFHEyQmKRsf/EABcBAQEBAQAAAAAAAAAAAAAAAAABBAP/xAAbEQEAAwEBAQEAAAAAAAAAAAAAAQIRITETBP/aAAwDAQACEQMRAD8Aw0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFw/TjaeNujOvxnX67ePj9HVRb7VXJqiriOfX9ItazachTxqmvfpVbs5uJGlZdf0L96LdVN+Y5pjzPExHxE+vn47+zXP0p06zot27p+TkRm2qJqjrmJormI8ceufnn2munwv3njHwFcgAAAAAAAAAAAAAAABP7L3Dc25rdrKjvj1VRTfp/x+Y/Mcz/uY9oAFiZidh9V4uRYzca1k41ym7ZuUxXbrpnmJifcITeeoXcfSbuJg0fW1DKoqt49iKo6q6uPUTMcz74jv8IfHu0bLvaXiUXrVrbuRplF2zm3Jmq3evz91c8x3iqYq5iI9RHb4gb+6dp0bgyNx5OdlapnYVuiNOwq7E0WYu+euKviJ794iee/xETGu36ImnPWTVRNNU01RMVRPExMeH4752Vczc3Iy7883b9yq5XP5qnmf+uCsYAAAAAAAAAAAAAAAAsmy9lavvK9lW9IpsxGLTFV25eudNMTPPTHiZ5nifXr0rtuKZrpi5M00c/dNMczEfiPbRtFztJ29nfv9j7xnDquUxF3D1jFriK4j1VVbpqpn8do458gu9vTcnYGzcfF3pextW0DJuU2sjCm3PXh1Vd+bdXP3xExM8RxMeYZl+pG0LG2c3EydLyoy9G1K3N7Cvc8z09uaZ+eOY7/AJTO/NeneOZh1atr2l4mFYt8fSxPrX/v/uqinojvPqJmO3t00zeG38jdO28XLt3Le3tEtV0Y9WVR11VXZjtcuRHPbqimeI8cQqqZj7R3BkxP0dKyJqpo+pVRMRTXTRxz1TTM8xHHuY4l4sTRdUzLVm7i6dlXbV679G1cotVTTXXxz0xPjnju0fRdw6Rg6JuuL+tWrmtan0015s27k03Kapnri3HTzPET76eZn4iJMfXtv2dL2Xt6jUaIwbVz91ql+qiftmavqTbmOPmIjtz4jv5MMUC9tfXrFGdXd0nLppwJ4yqptTxa8eZ/iYn+JifCIa1l7203VbG9My9n04+XqHRiYduu3VVxjRM9XTxHeZ5ntMx3478eMlCQBEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/2Q==) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    
+
+/* @media screen and (max-width:600px){
+    body{
+        background-color: palevioletred;
+        color: black;
+    }
+    .container{
+        width:200px;
+        height: fit;
+        background-color: rgb(184, 151, 218);
+        color: black;
+    }
+}
+@media screen and (min-width:602px) and (max-width:905px) {
+    body{
+        background-color: beige;
+        color: rgb(136, 15, 15);
+        display: flex;
+    }
+} */
